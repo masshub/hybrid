@@ -10,9 +10,9 @@
         <option name="gradleHome" value="E:/AndroidGradle/gradle-6.3-all/gradle-6.3" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../flutter_module/.android/Flutter" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/flutter_module/.android/Flutter" />
             <option value="$PROJECT_DIR$/second" />
           </set>
         </option>
