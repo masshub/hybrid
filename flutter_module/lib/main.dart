@@ -29,11 +29,9 @@ class _MyAppState extends State<MyApp> {
       } else if ("page3" == page) {
         target = Page3();
       }
-      // if(!mounted){
         setState(() {
 
         });
-      // }
     });
 
 
